@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\temp\\Projetos Visual Studio\\ASP.NET_WEB\\Projeto MVC\\",
+  "WorkspaceRootPath": "C:\\temp\\Projetos Visual Studio\\ASP.NET_MVC-em-casa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42011B50-C420-452D-943F-D34AA8D1A110}|Projeto MVC.csproj|c:\\temp\\projetos visual studio\\asp.net_web\\projeto mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42011B50-C420-452D-943F-D34AA8D1A110}|Projeto MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{42011B50-C420-452D-943F-D34AA8D1A110}|Projeto MVC.csproj|c:\\temp\\projetos visual studio\\asp.net_mvc-em-casa\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42011B50-C420-452D-943F-D34AA8D1A110}|Projeto MVC.csproj|solutionrelative:views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\temp\\Projetos Visual Studio\\ASP.NET_WEB\\Projeto MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\temp\\Projetos Visual Studio\\ASP.NET_WEB\\Projeto MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Title": "ApagarConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\temp\\Projetos Visual Studio\\ASP.NET_MVC-em-casa\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ToolTip": "C:\\temp\\Projetos Visual Studio\\ASP.NET_MVC-em-casa\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeToolTip": "Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-31T17:10:22.808Z",
+              "WhenOpened": "2026-05-31T20:50:39.816Z",
               "EditorCaption": ""
             }
           ]

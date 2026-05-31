@@ -8,10 +8,7 @@ namespace Projeto_MVC.Controllers
     {
         public IActionResult Index()
         {
-            HomeModel model = new HomeModel();
-            model.Nome = "Rhuan Victor";
-            model.Email = "rhuan@email.com";
-            return View(model);
+            return View();
         }
 
         public IActionResult Privacy()
