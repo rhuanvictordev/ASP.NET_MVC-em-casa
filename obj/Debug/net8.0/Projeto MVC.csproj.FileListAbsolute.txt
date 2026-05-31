@@ -1,0 +1,34 @@
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\bin\Debug\net8.0\appsettings.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\bin\Debug\net8.0\Projeto MVC.staticwebassets.runtime.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\bin\Debug\net8.0\Projeto MVC.staticwebassets.endpoints.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\bin\Debug\net8.0\Projeto MVC.exe
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\bin\Debug\net8.0\Projeto MVC.deps.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\bin\Debug\net8.0\Projeto MVC.runtimeconfig.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\bin\Debug\net8.0\Projeto MVC.dll
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\bin\Debug\net8.0\Projeto MVC.pdb
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.AssemblyInfoInputs.cache
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.AssemblyInfo.cs
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.csproj.CoreCompileInputs.cache
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.RazorAssemblyInfo.cache
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.RazorAssemblyInfo.cs
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.sourcelink.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\scopedcss\bundle\Projeto MVC.styles.css
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\scopedcss\projectbundle\Projeto MVC.bundle.scp.css
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.dll
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\refint\Projeto MVC.dll
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.pdb
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\Projeto MVC.genruntimeconfig.cache
+C:\temp\Projetos Visual Studio\ASP.NET_WEB\Projeto MVC\obj\Debug\net8.0\ref\Projeto MVC.dll
